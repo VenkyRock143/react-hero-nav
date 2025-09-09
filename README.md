@@ -1,12 +1,19 @@
-# React + Vite
+# 🚀 Fission Assignment Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, fully responsive **portfolio website** built using **plain CSS** (no frameworks like Tailwind/Bootstrap).  
+Designed to be minimal, clean, and adaptive across all devices.
 
-Currently, two official plugins are available:
+Live Demo:- https://react-hero-nav.netlify.app/
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## Expanding the ESLint configuration
+- 📱 **Fully Responsive** – Works on mobile, tablet, desktop, and large screens  
+- 🎨 **Stunning UI** – Built with pure CSS, custom animations, and gradients  
+- 🔗 **Fixed Navbar** – Transparent sticky navigation with mobile menu  
+- 🏠 **Hero Section** – Eye-catching intro with blurred glowing background shapes  
+- 💼 **Services Section** – Animated cards with hover effects  
+- 📸 **Projects Section** – Interactive project cards with overlays  
+- 📩 **Contact Section** – Full-width responsive contact form  
+- ⚡ **Lightweight** – No external CSS frameworks  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
