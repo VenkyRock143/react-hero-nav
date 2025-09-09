@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #171717; /* bg-neutral-900 */
+  color: white;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+section {
+  width: 100%;
+  padding: 5rem 1.5rem;
+}
+
+@media (min-width: 1024px) {
+  section {
+    padding: 7rem 3rem;
+  }
+}
